@@ -1,1 +1,2 @@
 This is some testdocument for git tutorial
+It is used to test up- and download from github
